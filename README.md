@@ -27,7 +27,7 @@ A modular Python CLI app to manage book inventory, track borrowings, and calcula
 ## 5. Installation & Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Swetank-1/library-book-inventory.git
+  [ git clone https://github.com/Swetank-1/library-book-inventory.git](https://github.com/yuvrajsingh-03/Library-Book-Inventory.git)
    cd library-book-inventory
 
    
